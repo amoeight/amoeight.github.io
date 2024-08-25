@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amoeight.github.io/sitemap.html.gz
+Sitemap: https://amoeight.github.io/app/sitemap.html.gz
+Sitemap: https://amoeight.github.io/assets/sitemap.html.gz
+Sitemap: https://amoeight.github.io/css/sitemap.html.gz
+Sitemap: https://amoeight.github.io/includes/sitemap.html.gz
+Sitemap: https://amoeight.github.io/item/sitemap.html.gz
+Sitemap: https://amoeight.github.io/src/sitemap.html.gz
